@@ -1,0 +1,10 @@
+apples
+pears
+bread
+milk
+coffee
+butter
+onions
+garlic
+cheese
+olive oil
